@@ -1,0 +1,192 @@
+body {
+	padding-top: 50px;
+	color: #959595;
+	background-color: #171717;
+	}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	color: #1597E5;
+	}
+
+#contact{
+
+	}
+#about{
+
+}
+
+#product{
+
+}
+
+.brand-title{
+	font-weight: 500;
+  font-size: 3rem;
+}
+
+.links{
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+.nav-item{
+  padding: 0 0.5rem;
+}
+
+.navbar{
+  padding: 0 0 1.5rem;
+}
+
+
+/* -- Slider -- */
+
+.testimonial-title{
+  padding-top: 3%;
+  margin: 0;
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+}
+
+.testimonial-img{
+  border-radius: 50%;
+  width: 7%;
+  margin: 10px;
+}
+
+.testimonial-txt{
+  font-weight: 400;
+  font-size: 1.2rem;
+  margin: 10px;
+}
+
+.carousel-item{
+  padding: 3.5% 7%;
+  height: 15rem;
+}
+
+.feature {
+	text-align: center;
+	background: url('../images/zed-galaxy-slayer-zed.gif');
+	background-position: 50% 25%;
+	background-size: cover;
+	background-color: #dd845a;
+	color: white;
+	text-shadow: 1px 1px 8px black;
+	}
+
+.feature .btn {
+	text-shadow: none;
+	}
+
+.promo, .footer-map {
+	border-width: 1px;
+	border-color: black;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	}
+
+.promo,
+.promo h3,
+.promo a:link,
+.promo a:visited,
+.promo a:hover,
+.promo a:active {
+    color: white;
+	text-shadow: 1px 1px 8px black;
+    text-decoration: none;
+}
+
+.promo-item {
+    height: 200px;
+    line-height: 180px;
+    text-align: center;
+}
+
+.promo-item:hover {
+    background-size: 110%;
+    border: 5px solid black;
+    line-height: 170px;
+}
+
+.promo-item h3 {
+    font-size: 40px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.item-1 {
+	background: url('../images/Skill-zed.gif');
+	}
+
+.item-2 {
+	background: url('../images/zed-power.gif');
+	}
+
+.item-3 {
+	background: url('../images/zed-fear.gif');
+	}
+
+.item-1,
+.item-2,
+.item-3 {
+	background-size: cover;
+	background-position: 50% 50%;
+	}
+
+.featured-product > img,
+.featured-product > a > img {
+	height: 400px;
+}
+
+.featured-product h3 {
+	color: #1597E5;
+	font-size: 18px;
+	text-align: center;
+	}
+
+.featured-product .price {
+	color: #dd845a;
+	font-size: 18px;
+	text-align: center;
+	}
+
+.featured-product .price s {
+	color: #999;
+	font-size: 18px;
+	}
+
+
+.testimonial-title{
+  padding-top: 3%;
+  margin: 0;
+  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+}
+
+.testimonial-img{
+  border-radius: 50%;
+  width: 7%;
+  margin: 10px;
+}
+
+.testimonial-txt{
+  font-weight: 400;
+  font-size: 1.2rem;
+  margin: 10px;
+}
+
+.carousel-item{
+  padding: 3.5% 7%;
+  height: 15rem;
+}
